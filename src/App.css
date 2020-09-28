@@ -1,0 +1,160 @@
+
+  .header-content{
+    background: #FEAC5E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4BC0C8, #817c81, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  .home-grid{
+    background: #DA22FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  .banner-text{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    margin: auto;
+    border-radius: 2em;
+    padding: 2em;
+    opacity: 0.8;
+  }
+  
+  .banner-text hr{
+    width: 70%;
+    border-top: white dotted;
+    margin: auto;
+    font-size: medium;
+  }
+  
+  .banner-text p{
+    font-size: small;
+    margin: 5em;
+    position: fixed;
+  }
+
+  .Project-text{
+    background: #FEAC5E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4BC0C8, #817c81, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .headerApp1{
+    background: #1c92d2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .Resume-text{
+    background: #1c92d2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .Contacts-text{
+   background-color: sienna;
+  } 
+
+  .headertitle{
+   text-align: center;
+  }
+  
+  .header{
+    text-align: center;
+   }
+   
+   .text{
+     background-color: teal;
+   }
+
+   .avatar-img{
+     padding-top: 5em;
+   }
+
+   .home-icons{
+     font-size:5em;
+     padding: 20px;
+     color: aliceblue;
+   }
+
+   .home-icons .icon{
+    padding:30px;
+    font-size:1em;
+   }
+
+   .Contacts-main{
+     background-color: sienna;
+     position: fixed;
+     padding:2em;
+     justify-content: center;
+     height: 100%;
+     width: 100%;
+   }
+
+   .Contacts-grid{
+     background-color: skyblue;
+     width: 75%;
+     height: 80%;
+     text-align: center;
+     opacity:0.3em;
+     border-radius:2em;
+  }
+
+  .Contacts-grid table{
+    font-size: 200%;
+    text-align:center;
+    padding: 2em;
+    justify-content:center;
+  }
+
+  .Contacts-icons{
+    font-size:1em;
+    padding-left:1.6em;
+    padding-top:0.4em;
+  }
+
+  .Contacts-grid p{
+    font-size: large;
+    padding:0.5em;
+    margin:auto;
+  }
+
+  .About-Grid{
+    margin: auto;
+    
+  }
+
+  .About-text{
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    margin: auto;
+    border-radius: 2em;
+    padding: 2em;
+    opacity: 0.8;
+    width:80%;
+  } 
+
+  .text1{
+    font-size:350%;
+    margin: auto;
+    padding: 0.4em;
+  }
+
+  .Resume-main{
+    width:200%;
+    background-color:powderblue;
+    opacity:0.3em;
+     border-radius:2em;
+    padding:2em;
+    
+   }
+
+  .Resume-grid{
+    background-color:peachpuff;
+    width:90%;
+    border-radius:2em;
+  }
+  
